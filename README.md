@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Diogo. Currently I am teaching, consulting, and working on Generative AI.
 <!--
 **drs2022ds/drs2022ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
